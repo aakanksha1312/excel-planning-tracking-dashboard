@@ -3,8 +3,6 @@
 A dynamic Excel dashboard built to track project tasks, monitor overdue items, and visualize status - made for Excel 5 requirement.
 
 ### 📊 Dashboard Preview
-> Upload your screenshot here - drag the image with green/yellow/red donut chart. GitHub will auto-add it.
-
 ![Dashboard Screenshot](./dashboard-screenshot.png)
 
 ### 🚀 Features
